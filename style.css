@@ -5,5 +5,7 @@
     margin: 15px 10px 20px 10px;
     margin-bottom: 30px;
     border-radius: 50%;
-    border-style: dashed red 2px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 2px;
 }
